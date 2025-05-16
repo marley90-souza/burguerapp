@@ -29,4 +29,25 @@ Aplicativo Android para uma hamburgueria fictícia com funcionalidades de pedido
 | Protótipo (UI/UX)          | Figma                             |
 
 
+BurgerApp/
+├── app/
+│ ├── src/
+│ │ ├── main/
+│ │ │ ├── java/com/burgerapp/
+│ │ │ │ ├── data/model/
+│ │ │ │ ├── ui/auth/
+│ │ │ │ ├── ui/home/
+│ │ │ │ ├── ui/menu/
+│ │ │ │ ├── ui/cart/
+│ │ │ │ ├── ui/order/
+│ │ │ │ ├── ui/chat/
+│ │ │ │ └── utils/
+│ │ │ ├── res/layout/
+│ │ │ ├── res/drawable/
+│ │ │ ├── res/values/
+│ │ │ ├── AndroidManifest.xml
+├── build.gradle
+├── google-services.json
+└── README.md
+
 
